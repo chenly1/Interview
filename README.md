@@ -1,0 +1,6 @@
+# Interview
+针对面试的只是总结
+
+1.ArrayList与Vector的区别
+ 1.从源码可以看到Vector使用了大量synchronized修饰符，所以vector是线程安全的，ArrayList不是，当然使用synchronized必然会影响效率，所以ArrayList的执行效率是优于Vector的
+ 2.ArrayList的底层实现是数组，Vector的
